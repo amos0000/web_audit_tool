@@ -1,6 +1,6 @@
-# klaus
+# web_audit_tool (formerly klaus)
 
-A new Flutter project.
+A simple Flutter app to audit websites by fetching SEO data such as title, keywords, meta tags, etc.
 
 ## Getting Started
 
