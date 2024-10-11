@@ -1,0 +1,26 @@
+name: web_audit_tool
+description: A simple Flutter app to audit websites by fetching SEO data such as title, keywords, meta tags, etc.
+ 
+version: 1.0.0+1
+ 
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+ 
+dependencies:
+  flutter:
+    sdk: flutter
+ 
+  # Essential packages for the project
+  http: ^1.2.2  # Updated version of the http package
+  html: ^0.15.0  # HTML parsing library
+ 
+  # Additional dependencies
+  cupertino_icons: ^1.0.2
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+ 
+flutter:
+  uses-material-design: true
+ 
